@@ -15,4 +15,3 @@ All graphs are dynamic as you can choose the subject using the dropdown menu.
 - Plotly library
 - HTML
 - javaScript
-
